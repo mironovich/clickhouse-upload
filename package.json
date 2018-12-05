@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@apla/clickhouse": "^1.5.3",
+    "clickhouse": "^1.2.88888888",
+    "fetch-progress": "^1.0.2",
+    "isomorphic-fetch": "^2.2.1",
+    "readable-stream": "^3.0.6",
+    "through2": "^3.0.0"
+  }
+}
